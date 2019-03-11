@@ -30,6 +30,14 @@ headlineMain: "Where ecology meets data science"
 
 calendar_on: True
 calendar_embed_url: "https://calendar.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FJerusalem"
+calendar_ical_url: "https://calendar.google.com/calendar/ical/h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com/public/basic.ics"
+calendar_google_url: "https://calendar.google.com/calendar/embed?src=h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com&ctz=Asia%2FJerusalem"
+
+# Contact information
+
+github_account: "https://github.com/ecodatasci-tlv/"
+list_serv: "https://groups.google.com/forum/#!forum/ecodatasci-tlv"
+slack_workspace: "https://ecodatascitlv.slack.com/"
 
 #========================================
 # No touching anything below this line :)
