@@ -1,9 +1,0 @@
----
-title: "Data wrangling with categorical variables"
-text: "We'll be starting off the new semester with a workshop on Data wrangling with categorical variables. We'll talk about how to work with factors when importing, visualizing, and modeling your data.  We'll be using the dplyr, ggplot2, and forcats packages from the tidyverse."
-link: "https://github.com/ecodatasci-tlv/factors"
-location: "Room 400, The Steinhardt Museum of Natural History, Tel Aviv"
-date: "2019-02-27"
-startTime: '14:00'
-endTime: '16:00'
----
