@@ -21,7 +21,7 @@
                   {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
                     {% assign isEvent = 1 %}
                     <li>
-                      <div class='eventTitle'><a href="{{ post.link }}">{{ post.title }}</a>, <i>{{ post.date | date: "%-d %B %Y"}}, {{post.startTime | date:"%r"}}</i> </div>
+                      <div class='eventTitle'><a href="{{ post.link }}">{{ post.title }}</a> - {{ post.date | date: "%-d %B %Y"}}, {{post.startTime | date:"%r"}} </div>
                       <div class='eventSub'>{{ post.location }}<br><a href="https://mozillascience.github.io/study-group-orientation/3.4-add-event.html">{{ post.text }}</a></div>
                     </li>
                   {% endif %}
@@ -59,7 +59,7 @@
                           {% assign nowday = nowday | minus: 2 %}
                           {% if postyear < nowyear or postday < nowday and postyear == nowyear %}
                             <li>
-                              <a class='eventTitle' href="{{ post.link }}">{{ post.title }}, {{ post.date | date: "%-d %B %Y"}}, {{post.startTime | date:"%r"}} </a>
+                              <div class='eventTitle'><a href="{{ post.link }}">{{ post.title }}</a> - {{ post.date | date: "%-d %B %Y"}}, {{post.startTime | date:"%r"}} </div>
                               <div class='eventSub'><b>{{ post.location }}</b><br> {{ post.text }}</div>
                             </li>
                           {% endif %}
