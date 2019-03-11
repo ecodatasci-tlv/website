@@ -24,7 +24,7 @@ pastEvents: See Our Past Events
 #watchingCaption: 'Look in the top right-hand corner of <a href="%GITHUB_REPO_URL%">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
 
 sayHi: Join us!
-contactSubheading: 'We use GitHub, Slack, and Google Groups to share events and resources.'
+contactSubheading: 'We host our workshop materials on GitHub, share events and resources via Google Groups, and chat during workshops on Slack.'
 contact: Contact us
 
 teamHeadline: Who We Are
