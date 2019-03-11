@@ -29,7 +29,7 @@ headlineMain: "Where ecology meets data science"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: "https://calendar.google.com/calendar/embed?src=h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com&ctz=Asia%2FJerusalem"
+calendar_embed_url: "https://calendar.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=h1854vp6ds8ejv3g96dlom7dn4%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FJerusalem"
 
 #========================================
 # No touching anything below this line :)
