@@ -1,0 +1,30 @@
+- name: Irene Steves
+  affiliation: The mindset behind the project
+  github: isteves
+  interests:
+    - R packages
+    - Open Science
+    - Project workflows
+- name: Maria Novosolov
+  affiliation: Tel Aviv University
+  github: marianovosolov
+  interests:
+    - RShiny
+    - Visualizations
+    - Statistical modeling
+- name: Alex Slavenko
+  affiliation: Tel Aviv University
+  github: alexsla
+  interests:
+    - Visualizations
+    - git
+    - Statistical modeling
+- name: Hezi Buba
+  affiliation: Tel Aviv University
+  github: hezibu
+  interests:
+    - Visualizations
+    - Statistical modeling
+    - Machine Learning
+    - Computer vision
+   
