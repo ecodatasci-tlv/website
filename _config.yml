@@ -21,6 +21,7 @@ language: en
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome to EcoDataSci-TLV"
 headlineMain: "Where ecology meets data science"
+github.url: "https://raw.githubusercontent.com/ecodatasci-tlv/website/master/"
 
 # Setup Google Calendar
 # Usage:
