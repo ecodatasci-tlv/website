@@ -2,7 +2,7 @@
 title: "Data exploration with Shiny"
 text: ""
 location: Room 400, The Steinhardt Museum of Natural History, Tel Aviv
-link: github.com/ecodatasci-tlv
+link: https://github.com/ecodatasci-tlv/shiny-tutorial
 date: 2019-03-27
 startTime: '14:15'
 endTime: '15:45'
